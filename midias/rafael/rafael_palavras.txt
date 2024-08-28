@@ -1,0 +1,10 @@
+felicidade: 5
+ódio: 4
+tristeza: 3
+paz: 2
+euforia: 2
+amor: 2
+vazio: 1
+raiva: 1
+interior: 1
+desilusão: 1
